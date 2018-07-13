@@ -1,0 +1,24 @@
+NET "Key_Up" LOC = A7;
+NET "Key_Switch" LOC = M4;
+
+NET "SEG_A[0]" LOC = F12;
+NET "SEG_A[1]" LOC = J12;
+NET "SEG_A[2]" LOC = M13;
+NET "SEG_A[3]" LOC = K14;
+
+NET "SEG_D[7]" LOC = L14;
+NET "SEG_D[6]" LOC = H12;
+NET "SEG_D[5]" LOC = N14;
+NET "SEG_D[4]" LOC = N11;
+NET "SEG_D[3]" LOC = P12;
+NET "SEG_D[2]" LOC = L13;
+NET "SEG_D[1]" LOC = M12;
+NET "SEG_D[0]" LOC = N13;
+
+NET "clk" LOC = B8;
+NET "PWM1" LOC = B9;
+NET "PWM2" LOC = A9;
+
+NET "clk_1MHz" LOC = C6;
+NET "clk_1KHz" LOC = B6;
+NET "clk_50Hz" LOC = C5;

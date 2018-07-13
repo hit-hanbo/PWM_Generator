@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/hh/ISE/Projects/hhhh/clks_isim_beh.exe" -prj "/home/hh/ISE/Projects/hhhh/clks_beh.prj" "work.clks" "work.glbl" 

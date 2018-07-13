@@ -1,0 +1,17 @@
+PROMGEN: Xilinx Prom Generator P.20131013
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+promgen -w -p mcs -c FF -o /home/hh/ISE/Projects/hhhh//h -x xcf01s -u 00000000 /home/hh/ISE/Projects/hhhh/top_module.bit 
+
+PROM /home/hh/ISE/Projects/hhhh/h.prm map: Wed Jun  6 08:11:44 2018
+
+Calculating PROM checksum with fill value ff
+
+Format        Mcs86 (32-bit)
+Size          128K
+PROM start    0000:0000
+PROM end      0001:ffff
+PROM checksum 00e58860
+
+        Addr1        Addr2                     Date File(s)
+    0000:0000    0001:1bdb     Jun  6 08:11:17 2018 /home/hh/ISE/Projects/hhhh/top_module.bit

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/hh/ISE/Projects/hhhh/top_module.ncd
+OUTFILE=/home/hh/ISE/Projects/hhhh/top_module.bit
+FAMILY=Spartan3E
+PART=xc3s100e-4cp132
+WORKINGDIR=/home/hh/ISE/Projects/hhhh
+LICENSE=WebPack
+USER_INFO=__0_0_0
